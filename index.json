@@ -1,0 +1,40 @@
+
+[
+
+    {
+    "artist": "Pearl Jam",
+    "album": "Ten",
+    "publication": "27/08/1991",
+    "genus":"grunge",
+    "tracks": "11",
+    "label":"epic records"
+    },
+    {
+        "artist": "Rem",
+        "album":"Murmur",
+        "publication": "12/0/1983",
+        "genus" :"alternative rock",
+        "tracks":"12",
+        "label":"IRS record"
+        },
+        {
+            "artist": "Kasabian",
+            "album": "Empire",
+            "publication": "28/08/2006",
+            "genus":"indie rock",
+            "tracks": "11",
+            "label":"columbia records"
+            },
+            {
+                "artist": "Fletwood Mac",
+                "album": "Mr Wonderful",
+                "publication": "01/08/1968",
+                "genus":"blues rock",
+                "tracks": "16",
+                "label":"blue horizon"
+                }
+        
+            ]
+            
+
+            
